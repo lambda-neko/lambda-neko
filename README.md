@@ -1,4 +1,8 @@
 ### Hi there 👋
 
-这个账号是用来点星星以及看朋友动态的哦，所以就不用回 fo 啦 ww  
-不过，欢迎 follow [@raptazure](https://github.com/raptazure) 😋 🦀️
+<p align="center">
+  
+This account is used to star repos and watch friends' activities, so there is no need to follow back. ww  
+However, welcome to follow [@raptazure](https://github.com/raptazure) 😋 🦀️
+
+</p>
