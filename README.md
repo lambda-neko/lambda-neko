@@ -1,6 +1,5 @@
 ### Hi there 👋
   
-Currently, focus of this account is to star following people's repos and watch friends' activities,  
+Currently, focus of this account is to star friends' repos. 
 So there is no need to follow back. w   
-However, welcome to follow [@raptazure](https://github.com/raptazure) if you like!  
-Thanks a lot! XD
+However, welcome to follow [@raptazure](https://github.com/raptazure). Thanks a lot! XD
